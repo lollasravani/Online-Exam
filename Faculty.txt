@@ -1,0 +1,4 @@
+Amrita,100
+Shobana,101
+Sitara,200
+Sravani,1234

@@ -1,0 +1,59 @@
+Which of these keywords is used to make a class?
+(1) class
+(2) struct
+(3) int
+(4) None of the mentioned
+
+What is the process of defining a method in subclass having same name & type signature as a method in its superclass?
+(1) Method overloading
+(2) Method overriding
+(3) Method hiding
+(4) None of the mentioned
+
+Which of the following statements are incorrect?
+(1) public members of class can be accessed by any code in the program.
+(2) private members of class can only be accessed by other members of the class.
+(3) private members of class can be inherited by a sub class, and become protected members in sub class.
+(4) protected members of a class can be inherited by a sub class, and become private members of the sub class.
+
+What is the return type of a method that does not returns any value?
+(1) int
+(2) float
+(3) void
+(4) double
+
+What is the prototype of the default constructor of this class?(public class prototype { })
+(1) prototype( )
+(2) prototype(void)
+(3) public prototype(void)
+(4) public prototype( )
+
+Which of these class is related to all the exceptions that can be caught by using catch?
+(1) Error
+(2) Exception
+(3) RuntimeExecption
+(4) All of the mentioned
+
+Which of these handles the exception when no catch is used?
+(1) Default handler
+(2) finally
+(3) throw handler
+(4) Java run time system
+
+Which of these keywords must be used to monitor for exceptions?
+(1) try
+(2) finally
+(3) throw
+(4) catch
+
+Which of these is a process of writing the state of an object to a byte stream?
+(1) Serialization
+(2) Externalization
+(3) File Filtering
+(4) All of the mentioned
+
+Which of these interface extends DataOutput interface?
+(1) Serializable
+(2) Externalization
+(3) ObjectOutput
+(4) ObjectInput
